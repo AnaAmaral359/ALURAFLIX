@@ -10,16 +10,16 @@ color: rgb(56, 76, 163);
 }
 
 header {
-    border-bottom: solid 2px rgb(111, 90, 32);
-    padding: 10px;
-    font-size: 20px;
+    border-bottom: solid 2px rgb(221, 105, 52);
+    padding: 20px;
+    font-size: 30px;
     color: rgb(147, 185, 153);
 }
 
  section {
 	background: rgb(184,156,213);
-	padding-bottom: 80px;
-	padding-top: 80px;
+	padding-bottom: 50px;
+	padding-top: 50px;
 	display: flex;
 	justify-content: center;
 }
